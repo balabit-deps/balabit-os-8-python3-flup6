@@ -1,0 +1,8 @@
+build/
+debian/debhelper-build-stamp
+debian/files
+debian/python3-flup6.debhelper.log
+debian/python3-flup6.postinst.debhelper
+debian/python3-flup6.prerm.debhelper
+debian/python3-flup6.substvars
+debian/python3-flup6/
