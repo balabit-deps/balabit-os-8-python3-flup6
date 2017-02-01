@@ -1154,7 +1154,7 @@ class BaseFCGIServer(object):
         if 'REQUEST_URI' in environ:
             reqUri = environ['REQUEST_URI'].split('?', 1)
 
-        if 'PATH_INFO' not in environ or not environ['PATH_INFO']:
+        if 'PATH_INFO' not in environ or environ['PATH_INFO'] is None:
             if reqUri is not None:
                 environ['PATH_INFO'] = reqUri[0]
             else:
