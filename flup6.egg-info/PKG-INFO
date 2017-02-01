@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: flup6
-Version: 1.1.1
+Version: 1.1.1+ubuntu1
 Summary: Random assortment of WSGI servers
 Home-page: https://bitbucket.org/denisenkom/flup
 Author: Mikhail Denisenko

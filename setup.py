@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name = 'flup6',
-    version = '1.1.1',
+    version = '1.1.1-1ubuntu1',
     packages = find_packages(),
     zip_safe = True,
     
