@@ -2,12 +2,8 @@ Source: flup6
 Maintainer: Mikhail Denisenko <denisenkom@gmail.com>
 Section: python
 Priority: optional
-Build-Depends: python3-setuptools, python3-all, debhelper (>= 7)
+Build-Depends: python3-setuptools, python3-all, debhelper (>= 7), dh-python
 Standards-Version: 3.9.1
-
-
-
-
 
 Package: python3-flup6
 Architecture: all

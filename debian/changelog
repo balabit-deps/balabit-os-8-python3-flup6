@@ -1,3 +1,9 @@
+flup6 (1.1.1-1ubuntu1bb2) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Fri, 20 Nov 2020 13:50:09 +0100
+
 flup6 (1.1.1-1ubuntu1bb1) bionic; urgency=medium
 
   * Balabit patched version
